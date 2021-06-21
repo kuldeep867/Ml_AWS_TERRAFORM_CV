@@ -119,7 +119,7 @@ def sendwhatmsg(pnum,msg):
     press('enter')
     return("Msg will be send within 1 min . . . ")
 
-num="+918107600541"
+num="+91"
 msg="hii this is test"
 
 def face_detector(img, size=0.5):
